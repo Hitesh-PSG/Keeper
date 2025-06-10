@@ -1,9 +1,9 @@
 // src/App.jsx
 import React, { useState } from "react";
-import Header from "./Header.jsx";
-import Footer from "./Footer.jsx";
+import Header from "./header.jsx";
+import Footer from "./footer.jsx";
 import CreateArea from "./createarea.jsx";
-import Note from "./Note.jsx";
+import Note from "./note.jsx";
 
 function App() {
   // 1. State to hold the array of notes
